@@ -1,4 +1,4 @@
-# CY6
+# usage
 可以每日掌握所在研究领域进展的skill，project中为植物单细胞测序相关进展，可以通过修改SKILL.md与prompt中的研究领域聚焦个人研究。
 
 其中SKILL.md要放入.codex文件夹中
